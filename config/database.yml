@@ -1,6 +1,6 @@
 
 development:
-  host: locahost
+  host: localhost
   adapter: postgresql
   encoding: unicode
   database: adnconsult_development
