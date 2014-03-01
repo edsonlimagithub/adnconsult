@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"sty",
+				"style"
+			],
+			[
+				"cufon",
+				"cufon-aller"
+			],
+			[
+				"JAVA",
+				"javascript_include_tag"
+			],
+			[
 				"pesquisa",
 				"pesquisa_cliente"
 			],
@@ -502,23 +514,67 @@
 			[
 				"audi",
 				"auditoria"
-			],
-			[
-				"me",
-				"meta_valor"
-			],
-			[
-				"atingido",
-				"atingido_voz"
-			],
-			[
-				"meta_valor",
-				"meta_valor_voz"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 5789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 1310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/pages_controller.rb",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/produtos_solucoes.html.erb",
+			"settings":
+			{
+				"buffer_size": 14276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environments/production.rb",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environments/development.rb",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -592,11 +648,12 @@
 	},
 	"file_history":
 	[
+		"/home/edsonlima/projetos/adnconsult/config/database.yml",
+		"/home/edsonlima/projetos/adnconsult/config/deploy.rb",
 		"/home/edsonlima/projetos/adnconsult/Gemfile",
 		"/home/edsonlima/projetos/adnconsult/config/routes.rb",
 		"/home/edsonlima/projetos/adnconsult/public/index_old.html",
 		"/home/edsonlima/projetos/adnconsult/public/index.html",
-		"/home/edsonlima/projetos/adnconsult/config/database.yml",
 		"/home/edsonlima/projetos/adnconsult/.ruby-version",
 		"/home/edsonlima/projetos/adnconsult/.ruby-gemset",
 		"/home/edsonlima/projetos/dsmmanager/app/views/auditorias/index.html.erb",
@@ -718,8 +775,7 @@
 		"/home/edsonlima/projetos/dsmmanager/public/stylesheets/style-responsive.css",
 		"/home/edsonlima/projetos/dsmmanager/public/stylesheets/style.css",
 		"/home/edsonlima/projetos/dsmmanager/app/views/auditorias/filtro_usuario_auditoria.html.erb",
-		"/home/edsonlima/projetos/dsmmanager/app/helpers/application_helper.rb",
-		"/home/edsonlima/projetos/dsmmanager/app/views/questionarios/perguntas_respostas_filtro.html.erb"
+		"/home/edsonlima/projetos/dsmmanager/app/helpers/application_helper.rb"
 	],
 	"find":
 	{
@@ -738,6 +794,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"compile",
+			"image",
 			"yeld",
 			"yel",
 			"cadastro",
@@ -863,9 +921,7 @@
 			"soma_vendas",
 			"soma_vendas realizado_aparelho_quantidade",
 			"periodo",
-			"periodo_relatorio",
-			"vendas",
-			"save"
+			"periodo_relatorio"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -884,8 +940,197 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 5789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1306,
+								1306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1310,
+								1310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/pages_controller.rb",
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/pages/produtos_solucoes.html.erb",
+					"settings":
+					{
+						"buffer_size": 14276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14276,
+								14276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3002.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/environments/production.rb",
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1223,
+								1223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/environments/development.rb",
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1254,
+								1254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -935,12 +1180,44 @@
 		"selected_items":
 		[
 			[
-				"rout",
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"pro",
+				"config/environments/production.rb"
+			],
+			[
+				"page",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"hom",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"ro",
 				"config/routes.rb"
 			],
 			[
 				"gem",
 				"Gemfile"
+			],
+			[
+				"depl",
+				"config/deploy.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
 			],
 			[
 				"",
@@ -973,10 +1250,6 @@
 			[
 				"apa",
 				"app/controllers/aparelho_recursos_controller.rb"
-			],
-			[
-				"appli",
-				"app/views/layouts/application_new.html.erb"
 			],
 			[
 				"aprelho",
@@ -1055,10 +1328,6 @@
 				"app/views/auditorias/filtro_auditorias.html.erb"
 			],
 			[
-				"depl",
-				"config/deploy.rb"
-			],
-			[
 				"ativacoes.r",
 				"lib/auditoria/ativacoes.rb"
 			],
@@ -1129,10 +1398,6 @@
 			[
 				"usuarios/new",
 				"app/views/usuarios/new.html.erb"
-			],
-			[
-				"data",
-				"config/database.yml"
 			],
 			[
 				"auditar",
@@ -1425,26 +1690,6 @@
 			[
 				"style",
 				"public/stylesheets/style-responsive.css"
-			],
-			[
-				"upload",
-				"app/views/vendas/upload_planilha_venda.html.erb"
-			],
-			[
-				"venda_con",
-				"app/controllers/vendas_controller.rb"
-			],
-			[
-				"index.html",
-				"app/views/auditorias/index.html.erb"
-			],
-			[
-				"_tabela_",
-				"app/views/metas/_tabela_web.html.erb"
-			],
-			[
-				"tabela",
-				"app/views/metas/_tabela_voz.html.erb"
 			]
 		],
 		"width": 0.0

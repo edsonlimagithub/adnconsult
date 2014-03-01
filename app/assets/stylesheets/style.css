@@ -6,7 +6,7 @@ body {
 	width:100%;
 	color:#6d6d6d;
 	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
-	background:#000002 url(../images/main_bg.jpg) no-repeat center top;
+	background:#000002 url(/assets/main_bg.jpg) no-repeat center top;
 }
 html, .main {
 	padding:0;
@@ -268,7 +268,7 @@ p.infopost span.date {
 	text-decoration:none;
 	text-align:center;
 	color:#f0f0f0;
-	background:url(../images/comment.jpg) no-repeat left top;
+	background:url(/assets/comment.jpg) no-repeat left top;
 }
 .article a.com:hover {
 	text-decoration:none;
@@ -309,11 +309,11 @@ p.infopost span.date {
 	width:38px;
 	text-decoration:none;
 	text-align:center;
-	background:url(../images/page_p.jpg) no-repeat left top;
+	background:url(/assets/page_p.jpg) no-repeat left top;
 }
 .content p.pages span, .content p.pages a:hover {
 	color:#fff;
-	background:url(../images/page_a.jpg) no-repeat left top;
+	background:url(/assets/page_a.jpg) no-repeat left top;
 }
 .content p.pages a {
 	color:#6d6d6d;
@@ -384,7 +384,7 @@ p.infopost span.date {
 	padding:2px 0 2px 12px;
 	color:#969595;
 	text-decoration:none;
-	background:url(../images/li.gif) no-repeat left center;
+	background:url(/assets/li.gif) no-repeat left center;
 }
 .fbg .fbg_ul li a:hover {
 	color:#209ebd;
@@ -449,7 +449,7 @@ ol li .send {
 	margin:0;
 	padding:0;
 	float:left;
-	background:url(../images/search_bg.gif) no-repeat left top;
+	background:url(/assets/search_bg.gif) no-repeat left top;
 }
 #formsearch input.editbox_search {
 	margin:0;
