@@ -531,7 +531,7 @@
 			"file": "app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 5789,
+				"buffer_size": 5735,
 				"line_ending": "Unix"
 			}
 		},
@@ -555,7 +555,7 @@
 			"file": "app/views/pages/produtos_solucoes.html.erb",
 			"settings":
 			{
-				"buffer_size": 14276,
+				"buffer_size": 14641,
 				"line_ending": "Unix"
 			}
 		},
@@ -573,6 +573,14 @@
 			{
 				"buffer_size": 1377,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 7810,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -794,6 +802,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"diferencial",
+			"h5",
+			"sear",
+			"image",
+			"main",
+			"img",
 			"compile",
 			"image",
 			"yeld",
@@ -915,13 +929,7 @@
 			"linhas",
 			"salvarVendas",
 			"grafico_controle",
-			"grafico_voz",
-			"@linhas_voz",
-			"tendencia",
-			"soma_vendas",
-			"soma_vendas realizado_aparelho_quantidade",
-			"periodo",
-			"periodo_relatorio"
+			"grafico_voz"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -940,7 +948,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -976,23 +984,25 @@
 					"file": "app/views/layouts/application.html.erb",
 					"settings":
 					{
-						"buffer_size": 5789,
+						"buffer_size": 5735,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1306,
-								1306
+								3010,
+								3010
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 162.0,
+						"translation.y": 913.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1054,23 +1064,24 @@
 					"file": "app/views/pages/produtos_solucoes.html.erb",
 					"settings":
 					{
-						"buffer_size": 14276,
+						"buffer_size": 14641,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14276,
-								14276
+								141,
+								141
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3002.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1130,6 +1141,33 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/stylesheets/style.css",
+					"settings":
+					{
+						"buffer_size": 7810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6927,
+								6927
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7808.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -1179,6 +1217,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"style",
+				"app/assets/stylesheets/style.css"
+			],
 			[
 				"deve",
 				"config/environments/development.rb"
@@ -1686,10 +1728,6 @@
 			[
 				"questionario_re",
 				"app/models/questionario_resposta.rb"
-			],
-			[
-				"style",
-				"public/stylesheets/style-responsive.css"
 			]
 		],
 		"width": 0.0
