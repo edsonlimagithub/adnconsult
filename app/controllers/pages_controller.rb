@@ -5,4 +5,16 @@ class PagesController < ApplicationController
   def produtos_solucoes
   end
 
+  def quem_somos
+  	
+  end
+
+  def contato
+  	
+  end
+
+  def time
+  	
+  end
+
 end

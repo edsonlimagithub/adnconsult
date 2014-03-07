@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"j",
+				"justify"
+			],
+			[
+				"h",
+				"h5	Tag"
+			],
+			[
 				"sty",
 				"style"
 			],
@@ -502,18 +514,6 @@
 			[
 				"fin",
 				"financeira"
-			],
-			[
-				"nome",
-				"nome_cliente"
-			],
-			[
-				"ven",
-				"vendedor_nome"
-			],
-			[
-				"audi",
-				"auditoria"
 			]
 		]
 	},
@@ -555,32 +555,8 @@
 			"file": "app/views/pages/produtos_solucoes.html.erb",
 			"settings":
 			{
-				"buffer_size": 14641,
+				"buffer_size": 15573,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/environments/production.rb",
-			"settings":
-			{
-				"buffer_size": 2481,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/environments/development.rb",
-			"settings":
-			{
-				"buffer_size": 1377,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/stylesheets/style.css",
-			"settings":
-			{
-				"buffer_size": 7810,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -656,6 +632,9 @@
 	},
 	"file_history":
 	[
+		"/home/edsonlima/projetos/adnconsult/app/assets/stylesheets/style.css",
+		"/home/edsonlima/projetos/adnconsult/config/environments/development.rb",
+		"/home/edsonlima/projetos/adnconsult/config/environments/production.rb",
 		"/home/edsonlima/projetos/adnconsult/config/database.yml",
 		"/home/edsonlima/projetos/adnconsult/config/deploy.rb",
 		"/home/edsonlima/projetos/adnconsult/Gemfile",
@@ -780,10 +759,7 @@
 		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_web.html.erb",
 		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_controle.html.erb",
 		"/home/edsonlima/projetos/dsmmanager/app/views/vendas/upload_planilha_venda.html.erb",
-		"/home/edsonlima/projetos/dsmmanager/public/stylesheets/style-responsive.css",
-		"/home/edsonlima/projetos/dsmmanager/public/stylesheets/style.css",
-		"/home/edsonlima/projetos/dsmmanager/app/views/auditorias/filtro_usuario_auditoria.html.erb",
-		"/home/edsonlima/projetos/dsmmanager/app/helpers/application_helper.rb"
+		"/home/edsonlima/projetos/dsmmanager/public/stylesheets/style-responsive.css"
 	],
 	"find":
 	{
@@ -802,6 +778,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"vantagens",
+			"empregados",
 			"diferencial",
 			"h5",
 			"sear",
@@ -927,9 +905,7 @@
 			"abort",
 			"grafico_voz",
 			"linhas",
-			"salvarVendas",
-			"grafico_controle",
-			"grafico_voz"
+			"salvarVendas"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -948,7 +924,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -1064,15 +1040,15 @@
 					"file": "app/views/pages/produtos_solucoes.html.erb",
 					"settings":
 					{
-						"buffer_size": 14641,
+						"buffer_size": 15573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								141,
-								141
+								119,
+								119
 							]
 						],
 						"settings":
@@ -1082,89 +1058,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "config/environments/production.rb",
-					"settings":
-					{
-						"buffer_size": 2481,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1223,
-								1223
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "config/environments/development.rb",
-					"settings":
-					{
-						"buffer_size": 1377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1254,
-								1254
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/assets/stylesheets/style.css",
-					"settings":
-					{
-						"buffer_size": 7810,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6927,
-								6927
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 7808.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
