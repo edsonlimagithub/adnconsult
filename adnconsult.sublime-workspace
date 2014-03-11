@@ -523,7 +523,31 @@
 			"file": "config/routes.rb",
 			"settings":
 			{
-				"buffer_size": 158,
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/contato.html.erb",
+			"settings":
+			{
+				"buffer_size": 7,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/time.html.erb",
+			"settings":
+			{
+				"buffer_size": 2426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/quem_somos.html.erb",
+			"settings":
+			{
+				"buffer_size": 10,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +555,7 @@
 			"file": "app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 5735,
+				"buffer_size": 5836,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +563,7 @@
 			"file": "app/views/pages/home.html.erb",
 			"settings":
 			{
-				"buffer_size": 1310,
+				"buffer_size": 1451,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,7 +571,7 @@
 			"file": "app/controllers/pages_controller.rb",
 			"settings":
 			{
-				"buffer_size": 99,
+				"buffer_size": 174,
 				"line_ending": "Unix"
 			}
 		},
@@ -557,6 +581,14 @@
 			{
 				"buffer_size": 15573,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/coin-slider.css",
+			"settings":
+			{
+				"buffer_size": 974,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -632,6 +664,8 @@
 	},
 	"file_history":
 	[
+		"/home/edsonlima/projetos/adnconsult/app/assets/javascripts/coin-slider.js",
+		"/home/edsonlima/projetos/adnconsult/quem_somos.html.erb",
 		"/home/edsonlima/projetos/adnconsult/app/assets/stylesheets/style.css",
 		"/home/edsonlima/projetos/adnconsult/config/environments/development.rb",
 		"/home/edsonlima/projetos/adnconsult/config/environments/production.rb",
@@ -757,9 +791,7 @@
 		"/home/edsonlima/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
 		"/home/edsonlima/projetos/dsmmanager/public/planilha_auditoria/planilha_venda.xls",
 		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_web.html.erb",
-		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_controle.html.erb",
-		"/home/edsonlima/projetos/dsmmanager/app/views/vendas/upload_planilha_venda.html.erb",
-		"/home/edsonlima/projetos/dsmmanager/public/stylesheets/style-responsive.css"
+		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_controle.html.erb"
 	],
 	"find":
 	{
@@ -778,6 +810,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"slide_a.png",
+			"slide_a",
+			"coin",
+			"slide",
+			"img",
 			"vantagens",
 			"empregados",
 			"diferencial",
@@ -900,12 +937,7 @@
 			"Resgate",
 			"grafico_voz",
 			"recorrente",
-			"recerrente",
-			"recorrente",
-			"abort",
-			"grafico_voz",
-			"linhas",
-			"salvarVendas"
+			"recerrente"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -924,7 +956,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -932,15 +964,15 @@
 					"file": "config/routes.rb",
 					"settings":
 					{
-						"buffer_size": 158,
+						"buffer_size": 293,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								113,
-								113
+								286,
+								286
 							]
 						],
 						"settings":
@@ -957,46 +989,44 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app/views/layouts/application.html.erb",
+					"file": "app/views/pages/contato.html.erb",
 					"settings":
 					{
-						"buffer_size": 5735,
+						"buffer_size": 7,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3010,
-								3010
+								7,
+								7
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 913.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "app/views/pages/home.html.erb",
+					"file": "app/views/pages/time.html.erb",
 					"settings":
 					{
-						"buffer_size": 1310,
+						"buffer_size": 2426,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1310,
-								1310
+								2426,
+								2426
 							]
 						],
 						"settings":
@@ -1011,23 +1041,23 @@
 				},
 				{
 					"buffer": 3,
-					"file": "app/controllers/pages_controller.rb",
+					"file": "app/views/pages/quem_somos.html.erb",
 					"settings":
 					{
-						"buffer_size": 99,
+						"buffer_size": 10,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								93,
-								93
+								10,
+								10
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1037,6 +1067,90 @@
 				},
 				{
 					"buffer": 4,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 5836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 1451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/pages_controller.rb",
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "app/views/pages/produtos_solucoes.html.erb",
 					"settings":
 					{
@@ -1047,13 +1161,40 @@
 						"selection":
 						[
 							[
-								119,
-								119
+								5050,
+								5050
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1399.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/assets/stylesheets/coin-slider.css",
+					"settings":
+					{
+						"buffer_size": 974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -1110,6 +1251,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"coin",
+				"app/assets/stylesheets/coin-slider.css"
+			],
+			[
+				"con-sli",
+				"app/assets/javascripts/coin-slider.js"
+			],
 			[
 				"style",
 				"app/assets/stylesheets/style.css"
@@ -1613,14 +1762,6 @@
 			[
 				"config",
 				"config/environments/development.rb"
-			],
-			[
-				"questao_op",
-				"app/models/questao_opcao.rb"
-			],
-			[
-				"questionario_re",
-				"app/models/questionario_resposta.rb"
 			]
 		],
 		"width": 0.0
