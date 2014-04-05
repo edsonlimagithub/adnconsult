@@ -539,7 +539,7 @@
 			"file": "app/views/pages/time.html.erb",
 			"settings":
 			{
-				"buffer_size": 2426,
+				"buffer_size": 2533,
 				"line_ending": "Unix"
 			}
 		},
@@ -555,7 +555,7 @@
 			"file": "app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 5836,
+				"buffer_size": 5510,
 				"line_ending": "Unix"
 			}
 		},
@@ -581,14 +581,6 @@
 			{
 				"buffer_size": 15573,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/stylesheets/coin-slider.css",
-			"settings":
-			{
-				"buffer_size": 974,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -664,6 +656,7 @@
 	},
 	"file_history":
 	[
+		"/home/edsonlima/projetos/adnconsult/app/assets/stylesheets/coin-slider.css",
 		"/home/edsonlima/projetos/adnconsult/app/assets/javascripts/coin-slider.js",
 		"/home/edsonlima/projetos/adnconsult/quem_somos.html.erb",
 		"/home/edsonlima/projetos/adnconsult/app/assets/stylesheets/style.css",
@@ -790,8 +783,7 @@
 		"/home/edsonlima/projetos/dsmmanager/config/environments/development.rb",
 		"/home/edsonlima/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
 		"/home/edsonlima/projetos/dsmmanager/public/planilha_auditoria/planilha_venda.xls",
-		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_web.html.erb",
-		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_controle.html.erb"
+		"/home/edsonlima/projetos/dsmmanager/app/views/metas/_tabela_web.html.erb"
 	],
 	"find":
 	{
@@ -1018,15 +1010,15 @@
 					"file": "app/views/pages/time.html.erb",
 					"settings":
 					{
-						"buffer_size": 2426,
+						"buffer_size": 2533,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2426,
-								2426
+								795,
+								795
 							]
 						],
 						"settings":
@@ -1070,15 +1062,15 @@
 					"file": "app/views/layouts/application.html.erb",
 					"settings":
 					{
-						"buffer_size": 5836,
+						"buffer_size": 5510,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								644,
-								644
+								562,
+								562
 							]
 						],
 						"settings":
@@ -1105,8 +1097,8 @@
 						"selection":
 						[
 							[
-								220,
-								220
+								142,
+								142
 							]
 						],
 						"settings":
@@ -1161,40 +1153,13 @@
 						"selection":
 						[
 							[
-								5050,
-								5050
+								166,
+								166
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1399.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "app/assets/stylesheets/coin-slider.css",
-					"settings":
-					{
-						"buffer_size": 974,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2,
-								2
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
