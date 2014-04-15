@@ -29,6 +29,13 @@ h2 {
 	font-weight:normal;
 	color:#6e6e6e;
 }
+h3 {
+	margin:8px 0;
+	padding:8px 0;
+	font-size:15px;
+	font-weight:bold;
+	color:#6e6e6e;
+}
 p {
 	margin:8px 0;
 	padding:0 0 8px 0;
@@ -507,4 +514,29 @@ ol li .send {
 }
 a {
 	outline:none;
+}
+
+
+.topico_1{
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #696969;
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+} 
+
+.topico_2{
+	font-size: 15px;
+	font-weight: bold;
+	//border-bottom: 10px;
+	border-bottom: 1px solid #696969; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.topico_3{
+	font-size: 15px;
+	font-weight: bold;
 }

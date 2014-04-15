@@ -1,0 +1,17 @@
+.scroll{
+	width: 690px;
+	height: 700px;
+	overflow: auto;
+	text-align: justify;
+	padding: 6px;
+
+	
+
+}
+
+h3{
+	font-weight: medium;
+}
+ul > li {
+    margin-left: 10px;
+}
